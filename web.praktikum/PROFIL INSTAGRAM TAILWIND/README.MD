@@ -1,3 +1,4 @@
+PERTANYAAN README TAILWIND
 
 1. Mengapa memilih jumlah kolom dan jarak (grid-cols/gap) berbeda pada setiap breakpoint?
 Karena tiap ukuran layar butuh tata letak berbeda agar tetap rapi, mudah dibaca, dan proporsional.
